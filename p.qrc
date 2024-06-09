@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>emoji-smile.png</file>
+    <file>emoji-smile-upside-down.png</file>
+    <file>640.jpg</file>
+    <file>尼娅.png</file>
+  </qresource>
+</RCC>
